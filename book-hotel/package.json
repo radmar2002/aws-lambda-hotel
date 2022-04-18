@@ -1,0 +1,14 @@
+{
+  "name": "book-hotel",
+  "version": "1.0.0",
+  "description": "book hotel aws lambda app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius Radu",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
